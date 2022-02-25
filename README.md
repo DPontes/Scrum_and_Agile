@@ -8,4 +8,9 @@ Based on the [Scrum Guide](https://scrumguides.org/scrum-guide.html) and [Agile 
 
 ## Sprint Planning
 
+## Backlog Refinement
+
 ## Sprint Review
+
+## Retrospective
+
